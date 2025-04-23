@@ -1,0 +1,9 @@
+D:\CardGame\HelloWorld\Classes\AppDelegate.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\AppDelegate.obj
+D:\CardGame\HelloWorld\Classes\configs\loaders\LevelConfigLoader.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\LevelConfigLoader.obj
+D:\CardGame\HelloWorld\Classes\HelloWorldScene.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\HelloWorldScene.obj
+D:\CardGame\HelloWorld\Classes\models\AreaModel.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\AreaModel.obj
+D:\CardGame\HelloWorld\Classes\models\CardModel.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\CardModel.obj
+D:\CardGame\HelloWorld\Classes\models\GameModel.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\GameModel.obj
+D:\CardGame\HelloWorld\Classes\views\CardView.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\CardView.obj
+D:\CardGame\HelloWorld\Classes\views\GameView.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\GameView.obj
+D:\CardGame\HelloWorld\proj.win32\main.cpp;D:\CardGame\HelloWorld\proj.win32\Debug.win32\main.obj
