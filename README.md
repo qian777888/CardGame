@@ -63,5 +63,5 @@ UndoManager：\
 四、使用说明\
 1.使用 Visual Studio 2022 打开 proj.win32 目录下的工程。\
 2.proj.win32/Release.win32 为项目 release 版本，可直接运行游戏。\
-3.目前仅在 Windows 平台测试，其他平台存在兼容性风险 。\
+3.目前仅在 Windows 平台测试 \
 
